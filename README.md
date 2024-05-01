@@ -30,7 +30,7 @@ The Generpromp is for SupICL.py
 # Environment Configuration
 
 ### 1. System Environment Variables
-
+You need to watch file LLMmodel/GPT.py to set your key
 Here are the system environment variables that need to be configured when using GPT. If using other large language models, please configure them according to the respective requirements. GPT is used as an example as follows.
 
 ##### Configure HTTP & HTTPS Proxy Port
