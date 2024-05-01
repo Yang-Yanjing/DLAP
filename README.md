@@ -1,7 +1,7 @@
 # DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection
 
 The overall framework is divided into 2 parts:
-
+![Alt text](image.png)
 
 ## SupICL.py - Construction of in-context learning prompts augmented by DL models 
 
