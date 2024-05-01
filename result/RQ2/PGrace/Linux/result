@@ -1,0 +1,1112 @@
+
+**START**_https://github.com/torvalds/linux/commit/5f8e44741f9f216e33736ea4ec65ca9ac03036e6
+
+**iteration**_0
+
+**GroundTruth**_0
+
+[ 800 3621 5002  871 4822]
+[1 0 4 3 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/6e5714eaf77d79ae1c8b47e3e040ff5411b717ec
+
+**iteration**_1
+
+**GroundTruth**_0
+
+[6647 2594 5768 5679 2698]
+[0 4 3 2 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c9f838d104fed6f2f61d68164712e3204bf5271b
+
+**iteration**_2
+
+**GroundTruth**_1
+
+[4483 6026 1491  271 5786]
+[0 3 4 2 1]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/18e3b739fdc826481c6a1335ce0c5b19b3d415da
+
+**iteration**_3
+
+**GroundTruth**_0
+
+[6265 5234 2173 6582 2627]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/295dc39d941dc2ae53d5c170365af4c9d5c16212
+
+**iteration**_4
+
+**GroundTruth**_0
+
+[1188 4258 3285 6657 2578]
+[4 0 2 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/a8b0ca17b80e92faab46ee7179ba9e99ccb61233
+
+**iteration**_5
+
+**GroundTruth**_0
+
+[6284 1702  863 2712  523]
+[0 4 3 1 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/550fd08c2cebad61c548def135f67aba284c6162
+
+**iteration**_6
+
+**GroundTruth**_0
+
+[2441 2972 3291 5647 2350]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c70422f760c120480fee4de6c38804c72aa26bc1
+
+**iteration**_7
+
+**GroundTruth**_0
+
+[6584 1021 5591 2428 4073]
+[0 3 2 1 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/eee5cc2702929fd41cce28058dc6d6717f723f87
+
+**iteration**_8
+
+**GroundTruth**_1
+
+[3086 2248 6524  484 5114]
+[1 0 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c2226fc9e87ba3da060e47333657cd6616652b84
+
+**iteration**_9
+
+**GroundTruth**_0
+
+[5123 2915 2463 1647 2049]
+[0 2 1 3 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/f8bd2258e2d520dff28c855658bd24bdafb5102d
+
+**iteration**_10
+
+**GroundTruth**_0
+
+[5950 3801 4168  505 2274]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/0a54917c3fc295cb61f3fb52373c173fd3b69f48
+
+**iteration**_11
+
+**GroundTruth**_0
+
+[ 650 2359 2148 3111  278]
+[2 0 3 4 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/ea3d7209ca01da209cda6f0dea8be9cc4b7a933b
+
+**iteration**_12
+
+**GroundTruth**_0
+
+[3295 6566 3284 6560 3734]
+[0 2 4 3 1]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/5d26a105b5a73e5635eae0629b42fa0a90e07b7b
+
+**iteration**_13
+
+**GroundTruth**_0
+
+[2533 5137 1116 5461 1209]
+[1 0 3 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/f6d8bd051c391c1c0458a30b2a7abcd939329259
+
+**iteration**_14
+
+**GroundTruth**_0
+
+[1826 5413 2834 5146  474]
+[0 1 3 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/8d0207652cbe27d1f962050737848e5ad4671958
+
+**iteration**_15
+
+**GroundTruth**_0
+
+[1077 6186 3756 2675  296]
+[3 4 1 0 2]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/704620afc70cf47abb9d6a1a57f3825d2bca49cf
+
+**iteration**_16
+
+**GroundTruth**_0
+
+[2084 4843 5896 4420 1033]
+[0 1 2 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/f26f9aff6aaf67e9a430d16c266f91b13a5bff64
+
+**iteration**_17
+
+**GroundTruth**_1
+
+[5734 4939 2427 2955 6302]
+[0 4 2 1 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/cbdb967af3d54993f5814f1cee0ed311a055377d
+
+**iteration**_18
+
+**GroundTruth**_1
+
+[6398 4582 4912 1047 4896]
+[1 0 4 3 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/f6d8bd051c391c1c0458a30b2a7abcd939329259
+
+**iteration**_19
+
+**GroundTruth**_0
+
+[5867 1959 1739 5911 3239]
+[0 2 4 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/e0bccd315db0c2f919e7fcf9cb60db21d9986f52
+
+**iteration**_20
+
+**GroundTruth**_1
+
+[6236  149 1586 1095 4023]
+[3 2 4 1 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c547dbf55d5f8cf615ccc0e7265e98db27d3fb8b
+
+**iteration**_21
+
+**GroundTruth**_0
+
+[5542 2298 4333  859 3869]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/be0726d33cb8f411945884664924bed3cb8c70ee
+
+**iteration**_22
+
+**GroundTruth**_1
+
+[4513 6133 6857 4890 3055]
+[3 4 1 0 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/3ca8138f014a913f98e6ef40e939868e1e9ea876
+
+**iteration**_23
+
+**GroundTruth**_0
+
+[4615 6251  216  762 2856]
+[0 4 2 1 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/dc0b027dfadfcb8a5504f7d8052754bf8d501ab9
+
+**iteration**_24
+
+**GroundTruth**_0
+
+[3132 2026 5307 4139 5486]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/7b07f8eb75aa3097cdfd4f6eac3da49db787381d
+
+**iteration**_25
+
+**GroundTruth**_0
+
+[1731 5583 3564 2579 4992]
+[0 2 3 1 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/0558f33c06bb910e2879e355192227a8e8f0219d
+
+**iteration**_26
+
+**GroundTruth**_0
+
+[3020 5145 2401  746  506]
+[1 2 3 4 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/e4f3aa2e1e67bb48dfbaaf1cad59013d5a5bc276
+
+**iteration**_27
+
+**GroundTruth**_0
+
+[6831 5484  287 3922 3122]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/59643d1535eb220668692a5359de22545af579f6
+
+**iteration**_28
+
+**GroundTruth**_0
+
+[5755 5212 5524 1318  102]
+[1 0 3 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/ef3313e84acbf349caecae942ab3ab731471f1a1
+
+**iteration**_29
+
+**GroundTruth**_0
+
+[4211 2906 6562 1547 6036]
+[0 2 1 3 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/81f9c4e4177d31ced6f52a89bb70e93bfb77ca03
+
+**iteration**_30
+
+**GroundTruth**_0
+
+[ 327 2062 2174 4274   38]
+[0 1 2 4 3]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/f0d1bec9d58d4c038d0ac958c9af82be6eb18045
+
+**iteration**_31
+
+**GroundTruth**_1
+
+[2887 6041 5011 1974 4458]
+[0 4 1 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/bfd0a56b90005f8c8a004baf407ad90045c2b11e
+
+**iteration**_32
+
+**GroundTruth**_0
+
+[6181  186 4986 1062  411]
+[1 0 3 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/cfa39381173d5f969daf43582c95ad679189cbc9
+
+**iteration**_33
+
+**GroundTruth**_0
+
+[3135  791 3565 2163 1717]
+[0 4 3 2 1]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/18e3b739fdc826481c6a1335ce0c5b19b3d415da
+
+**iteration**_34
+
+**GroundTruth**_0
+
+[1353 4417 4322 4351 4662]
+[0 1 3 2 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/f6d8bd051c391c1c0458a30b2a7abcd939329259
+
+**iteration**_35
+
+**GroundTruth**_1
+
+[2835 2462 6633 5491 2107]
+[1 0 4 3 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/6c4841c2b6c32a134f9f36e5e08857138cc12b10
+
+**iteration**_36
+
+**GroundTruth**_0
+
+[ 116 6335 2142 1134  400]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/5d26a105b5a73e5635eae0629b42fa0a90e07b7b
+
+**iteration**_37
+
+**GroundTruth**_0
+
+[6411 3773 1459 6760 2836]
+[0 3 1 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c06cfb08b88dfbe13be44a69ae2fdc3a7c902d81
+
+**iteration**_38
+
+**GroundTruth**_0
+
+[2253 2841 3223 2916 2391]
+[1 3 0 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/4a491b1ab11ca0556d2fda1ff1301e862a2d44c4
+
+**iteration**_39
+
+**GroundTruth**_0
+
+[3840 1629 4111 4393   69]
+[1 0 2 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/363b02dab09b3226f3bd1420dad9c72b79a42a76
+
+**iteration**_40
+
+**GroundTruth**_1
+
+[4426 2556 1182  610 1418]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/8176cced706b5e5d15887584150764894e94e02f
+
+**iteration**_41
+
+**GroundTruth**_0
+
+[5835 2572 2145 1464 1461]
+[3 2 4 0 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/864745d291b5ba80ea0bd0edcbe67273de368836
+
+**iteration**_42
+
+**GroundTruth**_0
+
+[6497  137 3082 3932 4544]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/373c4557d2aa362702c4c2d41288fb1e54990b7c
+
+**iteration**_43
+
+**GroundTruth**_1
+
+[6460 2318 5098 3949 3328]
+[3 4 0 1 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/3b30460c5b0ed762be75a004e924ec3f8711e032
+
+**iteration**_44
+
+**GroundTruth**_0
+
+[5989 2749  900 2755 5958]
+[0 1 2 4 3]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/687cb0884a714ff484d038e9190edc874edcf146
+
+**iteration**_45
+
+**GroundTruth**_0
+
+[1202  213 5083 4592 4612]
+[0 4 1 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/d4fdf8ba0e5808ba9ad6b44337783bd9935e0982
+
+**iteration**_46
+
+**GroundTruth**_0
+
+[4428  457 1495 4650 2818]
+[1 0 2 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/208c72f4fe44fe09577e7975ba0e7fa0278f3d03
+
+**iteration**_47
+
+**GroundTruth**_0
+
+[4283 5588 1949  848 5596]
+[0 4 3 2 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c4c896e1471aec3b004a693c689f60be3b17ac86
+
+**iteration**_48
+
+**GroundTruth**_0
+
+[1288 3562 2744 1774 3974]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/fda4e2e85589191b123d31cdc21fd33ee70f50fd
+
+**iteration**_49
+
+**GroundTruth**_0
+
+[6083 4374  839 5734 5872]
+[0 2 4 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/397d425dc26da728396e66d392d5dcb8dac30c37
+
+**iteration**_50
+
+**GroundTruth**_0
+
+[ 456  958 2220 4738  450]
+[3 0 1 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/b4a1b4f5047e4f54e194681125c74c0aa64d637d
+
+**iteration**_51
+
+**GroundTruth**_0
+
+[1182 2556 5636  610 5759]
+[0 1 2 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/6ec82562ffc6f297d0de36d65776cff8e5704867
+
+**iteration**_52
+
+**GroundTruth**_0
+
+[2972 1231 2876 6058 4981]
+[0 3 4 2 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/a8c1f65c79cbbb2f7da782d4c9d15639a9b94b27
+
+**iteration**_53
+
+**GroundTruth**_0
+
+[ 500 5664 5609  725 4874]
+[0 1 2 3 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/b5b515445f4f5a905c5dd27e6e682868ccd6c09d
+
+**iteration**_54
+
+**GroundTruth**_0
+
+[ 338 5868 1345 4796 2936]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/2def2ef2ae5f3990aabdbe8a755911902707d268
+
+**iteration**_55
+
+**GroundTruth**_1
+
+[3827 5599 1291 2817 1691]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/d661684cf6820331feae71146c35da83d794467e
+
+**iteration**_56
+
+**GroundTruth**_1
+
+[1705 6719  321 5722 4307]
+[0 2 3 4 1]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/df80cd9b28b9ebaa284a41df611dbf3a2d05ca74
+
+**iteration**_57
+
+**GroundTruth**_0
+
+[5266 2860 6147 5346 3995]
+[3 1 0 2 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/f26f9aff6aaf67e9a430d16c266f91b13a5bff64
+
+**iteration**_58
+
+**GroundTruth**_0
+
+[ 156 1332 3134 5500 3752]
+[2 1 4 3 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/20e0fa98b751facf9a1101edaefbc19c82616a68
+
+**iteration**_59
+
+**GroundTruth**_1
+
+[5363 4075 5493  405 4351]
+[0 4 3 1 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/3c0c5cfdcd4d69ffc4b9c0907cec99039f30a50a
+
+**iteration**_60
+
+**GroundTruth**_0
+
+[5655 4568 6528 1197 5787]
+[2 1 3 4 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/363b02dab09b3226f3bd1420dad9c72b79a42a76
+
+**iteration**_61
+
+**GroundTruth**_0
+
+[2221 1923  261 1557 4392]
+[2 3 4 0 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/f8bd2258e2d520dff28c855658bd24bdafb5102d
+
+**iteration**_62
+
+**GroundTruth**_0
+
+[1380 5825 3803  301 6206]
+[0 1 3 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/29cd8ae0e1a39e239a3a7b67da1986add1199fc0
+
+**iteration**_63
+
+**GroundTruth**_0
+
+[ 649  149  977 4119 4406]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/6817ae225cd650fb1c3295d769298c38b1eba818
+
+**iteration**_64
+
+**GroundTruth**_0
+
+[1242 6760 6420 2879 1778]
+[1 0 3 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/4b6184336ebb5c8dc1eae7f7ab46ee608a748b05
+
+**iteration**_65
+
+**GroundTruth**_1
+
+[2359 4590 3066  899 5939]
+[3 4 0 1 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/5f00110f7273f9ff04ac69a5f85bb535a4fd0987
+
+**iteration**_66
+
+**GroundTruth**_0
+
+[2062 2846 3593  273 1906]
+[1 2 4 3 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/cf872776fc84128bb779ce2b83a37c884c3203ae
+
+**iteration**_67
+
+**GroundTruth**_0
+
+[3652 6818  443 1335 1007]
+[2 3 0 4 1]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/c1fa0768a8713b135848f78fd43ffc208d8ded70
+
+**iteration**_68
+
+**GroundTruth**_0
+
+[4983 5097 5704 6706 6069]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/58ccd2d31e502c37e108b285bf3d343eb00c235b
+
+**iteration**_69
+
+**GroundTruth**_0
+
+[1916 3311 5889 1971 2499]
+[1 3 2 0 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/0b760113a3a155269a3fba93a409c640031dd68f
+
+**iteration**_70
+
+**GroundTruth**_0
+
+[6272  352 5580 6507 2435]
+[0 4 2 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/9c895160d25a76c21b65bad141b08e8d4f99afef
+
+**iteration**_71
+
+**GroundTruth**_0
+
+[4435 1527 4043 1371 6054]
+[1 0 3 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/0ad646c81b2182f7fa67ec0c8c825e0ee165696d
+
+**iteration**_72
+
+**GroundTruth**_0
+
+[ 181 6684 6197 4073 2344]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/54648cf1ec2d7f4b6a71767799c45676a138ca24
+
+**iteration**_73
+
+**GroundTruth**_0
+
+[ 396  273 6727 3028 1216]
+[0 3 2 1 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/4e7c22d447bb6d7e37bfe39ff658486ae78e8d77
+
+**iteration**_74
+
+**GroundTruth**_1
+
+[2324 1134 4109 4305 1575]
+[0 1 3 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/15d3042a937c13f5d9244241c7a9c8416ff6e82a
+
+**iteration**_75
+
+**GroundTruth**_0
+
+[ 896 2382 5341 5338 1505]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/8605330aac5a5785630aec8f64378a54891937cc
+
+**iteration**_76
+
+**GroundTruth**_1
+
+[4355 2823 4652  414 5039]
+[0 1 3 4 2]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/0b760113a3a155269a3fba93a409c640031dd68f
+
+**iteration**_77
+
+**GroundTruth**_0
+
+[1252 6153 1948 6708 6342]
+[1 0 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/c85ce65ecac078ab1a1835c87c4a6319cf74660a
+
+**iteration**_78
+
+**GroundTruth**_0
+
+[6412 1615 3342 6197 2086]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/baff42ab1494528907bf4d5870359e31711746ae
+
+**iteration**_79
+
+**GroundTruth**_0
+
+[4456  130  846 2475 2452]
+[2 0 4 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/5d26a105b5a73e5635eae0629b42fa0a90e07b7b
+
+**iteration**_80
+
+**GroundTruth**_0
+
+[1523 5159 1426 5137 5138]
+[2 1 0 3 4]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/4ab25786c87eb20857bbb715c3ae34ec8fd6a214
+
+**iteration**_81
+
+**GroundTruth**_0
+
+[2499 1898 6332 6451 1346]
+[0 3 4 1 2]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/072684e8c58d17e853f8e8b9f6d9ce2e58d2b036
+
+**iteration**_82
+
+**GroundTruth**_1
+
+[ 993 4669 4712 4419 3688]
+[2 0 1 4 3]
+
+**Result**_0
+
+
+**START**_https://github.com/torvalds/linux/commit/18f39e7be0121317550d03e267e3ebd4dbfbb3ce
+
+**iteration**_83
+
+**GroundTruth**_1
+
+[1307 4415 2438 6478 3193]
+[1 3 4 2 0]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/604c499cbbcc3d5fe5fb8d53306aa0fae1990109
+
+**iteration**_84
+
+**GroundTruth**_0
+
+[3892 4264 3501 6716 2696]
+[3 2 0 4 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/5d81de8e8667da7135d3a32a964087c0faf5483f
+
+**iteration**_85
+
+**GroundTruth**_0
+
+[3345 4709  743 2170 4456]
+[0 3 1 2 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/54d83fc74aa9ec72794373cb47432c5f7fb1a309
+
+**iteration**_86
+
+**GroundTruth**_1
+
+[4829 5952 6590 1941 5372]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/12f09ccb4612734a53e47ed5302e0479c10a50f8
+
+**iteration**_87
+
+**GroundTruth**_0
+
+[2801 2584 5553 5490 6727]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/1fb254aa983bf190cfd685d40c64a480a9bafaee
+
+**iteration**_88
+
+**GroundTruth**_1
+
+[2258 6043  926 2506 1751]
+[0 3 2 1 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/48900cb6af4282fa0fb6ff4d72a81aa3dadb5c39
+
+**iteration**_89
+
+**GroundTruth**_0
+
+[3566 5755 5834 4348 3772]
+[0 3 2 1 4]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/dc0b027dfadfcb8a5504f7d8052754bf8d501ab9
+
+**iteration**_90
+
+**GroundTruth**_0
+
+[6025 1943 2474 1619 5042]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/59643d1535eb220668692a5359de22545af579f6
+
+**iteration**_91
+
+**GroundTruth**_0
+
+[6426 6229 4745 3831  685]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://github.com/torvalds/linux/commit/f8bd2258e2d520dff28c855658bd24bdafb5102d
+
+**iteration**_92
+
+**GroundTruth**_0
+
+[4310 1400  227 2245 5252]

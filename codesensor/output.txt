@@ -1,0 +1,144 @@
+func	4:0	47:0	0	int	text
+stmnts	0:0	46:12	1	
+decl	6:4	6:27	2	char	str1[20]
+op	6:18	0:0	2	=
+water	6:20	0:0	2	"Hello"
+decl	7:4	7:17	2	char	str2[20]
+call	8:4	8:21	2	strcpy
+arg	8:11	8:15	3	str2
+water	8:11	0:0	4	str2
+arg	8:17	8:21	3	str1
+water	8:17	0:0	4	str1
+water	8:22	0:0	2	;
+call	9:4	9:29	2	printf
+arg	9:11	9:23	3	"str2: %s\n"
+water	9:11	0:0	4	"str2: %s\n"
+arg	9:25	9:29	3	str2
+water	9:25	0:0	4	str2
+water	9:30	0:0	2	;
+decl	12:4	12:28	2	char	str3[20]
+op	12:18	0:0	2	=
+water	12:20	0:0	2	" World"
+call	13:4	13:21	2	strcat
+arg	13:11	13:15	3	str1
+water	13:11	0:0	4	str1
+arg	13:17	13:21	3	str3
+water	13:17	0:0	4	str3
+water	13:22	0:0	2	;
+call	14:4	14:29	2	printf
+arg	14:11	14:23	3	"str1: %s\n"
+water	14:11	0:0	4	"str1: %s\n"
+arg	14:25	14:29	3	str1
+water	14:25	0:0	4	str1
+water	14:30	0:0	2	;
+decl	17:4	17:26	2	char	arr1[]
+op	17:16	0:0	2	=
+water	17:18	0:0	2	"123456"
+decl	18:4	18:26	2	char	arr2[]
+op	18:16	0:0	2	=
+water	18:18	0:0	2	"abcdef"
+call	19:4	19:24	2	memcpy
+arg	19:11	19:15	3	arr1
+water	19:11	0:0	4	arr1
+arg	19:17	19:21	3	arr2
+water	19:17	0:0	4	arr2
+arg	19:23	19:24	3	4
+water	19:23	0:0	4	4
+water	19:25	0:0	2	;
+call	20:4	20:29	2	printf
+arg	20:11	20:23	3	"arr1: %s\n"
+water	20:11	0:0	4	"arr1: %s\n"
+arg	20:25	20:29	3	arr1
+water	20:25	0:0	4	arr1
+water	20:30	0:0	2	;
+decl	23:4	23:19	2	char	buffer[50]
+decl	24:4	24:17	2	int	num
+op	24:12	0:0	2	=
+water	24:14	0:0	2	123
+call	25:4	25:43	2	sprintf
+arg	25:12	25:18	3	buffer
+water	25:12	0:0	4	buffer
+arg	25:20	25:38	3	"The number is %d"
+water	25:20	0:0	4	"The number is %d"
+arg	25:40	25:43	3	num
+water	25:40	0:0	4	num
+water	25:44	0:0	2	;
+call	26:4	26:25	2	printf
+arg	26:11	26:17	3	"%s\n"
+water	26:11	0:0	4	"%s\n"
+arg	26:19	26:25	3	buffer
+water	26:19	0:0	4	buffer
+water	26:26	0:0	2	;
+decl	29:4	29:18	2	char	input[50]
+call	30:4	30:29	2	printf
+arg	30:11	30:29	3	"Enter a string: "
+water	30:11	0:0	4	"Enter a string: "
+water	30:30	0:0	2	;
+call	31:4	31:26	2	fgets
+arg	31:10	31:15	3	input
+water	31:10	0:0	4	input
+arg	31:17	31:19	3	50
+water	31:17	0:0	4	50
+arg	31:21	31:26	3	stdin
+water	31:21	0:0	4	stdin
+water	31:27	0:0	2	;
+call	32:4	32:35	2	printf
+arg	32:11	32:28	3	"You entered: %s"
+water	32:11	0:0	4	"You entered: %s"
+arg	32:30	32:35	3	input
+water	32:30	0:0	4	input
+water	32:36	0:0	2	;
+decl	35:4	35:17	2	char	name[20]
+decl	36:4	36:11	2	int	age
+call	37:4	37:38	2	printf
+arg	37:11	37:38	3	"Enter your name and age: "
+water	37:11	0:0	4	"Enter your name and age: "
+water	37:39	0:0	2	;
+call	38:4	38:29	2	scanf
+arg	38:10	38:17	3	"%s %d"
+water	38:10	0:0	4	"%s %d"
+arg	38:19	38:23	3	name
+water	38:19	0:0	4	name
+arg	38:25	38:29	3	&age
+op	38:25	0:0	4	&
+water	38:26	0:0	4	age
+water	38:30	0:0	2	;
+call	39:4	39:43	2	printf
+arg	39:11	39:32	3	"Name: %s, Age: %d\n"
+water	39:11	0:0	4	"Name: %s, Age: %d\n"
+arg	39:34	39:38	3	name
+water	39:34	0:0	4	name
+arg	39:40	39:43	3	age
+water	39:40	0:0	4	age
+water	39:44	0:0	2	;
+decl	42:4	42:33	2	int	arr3[5]
+op	42:16	0:0	2	=
+water	42:18	0:0	2	{
+water	42:19	0:0	2	1
+water	42:20	0:0	2	,
+water	42:22	0:0	2	2
+water	42:23	0:0	2	,
+water	42:25	0:0	2	3
+water	42:26	0:0	2	,
+water	42:28	0:0	2	4
+water	42:29	0:0	2	,
+water	42:31	0:0	2	5
+water	42:32	0:0	2	}
+water	43:4	0:0	2	arr3
+op	43:8	0:0	2	[
+water	43:9	0:0	2	2
+op	43:10	0:0	2	]
+op	43:12	0:0	2	=
+water	43:14	0:0	2	10
+water	43:16	0:0	2	;
+call	44:4	44:35	2	printf
+arg	44:11	44:26	3	"arr3[2]: %d\n"
+water	44:11	0:0	4	"arr3[2]: %d\n"
+arg	44:28	44:35	3	arr3[2]
+water	44:28	0:0	4	arr3
+op	44:32	0:0	4	[
+water	44:33	0:0	4	2
+op	44:34	0:0	4	]
+water	44:36	0:0	2	;
+return	46:4	46:12	2	0
+water	46:11	0:0	3	0

@@ -1,0 +1,2265 @@
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=da885fe1ee8b4589047484bd7fa05a4905b52b17
+
+**iteration**_0
+
+**GroundTruth**_1
+
+[149  71 104 429 329]
+[0 3 4 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=691a02e2ce0c413236a78dee6f2651c937b09fb0
+
+**iteration**_1
+
+**GroundTruth**_0
+
+[368 120 342  59  35]
+[0 4 3 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=afbcc40bee4ef51731102d7d4b499ee12fc182e1
+
+**iteration**_2
+
+**GroundTruth**_0
+
+[ 37 327 120 407 368]
+[3 4 2 0 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=0be839a2701369f669532ea5884c15bead1c6e08
+
+**iteration**_3
+
+**GroundTruth**_0
+
+[177 117 204 332  40]
+[0 1 2 3 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ab9509cceabef28071e41bdfa073083859c949a7
+
+**iteration**_4
+
+**GroundTruth**_1
+
+[358  94 114 284 140]
+[2 1 0 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=4774718e5c194026ba5ee7a28d9be49be3080e42
+
+**iteration**_5
+
+**GroundTruth**_0
+
+[188 215  39  55 240]
+[1 4 0 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=cc96677469388bad3d66479379735cf75db069e3
+
+**iteration**_6
+
+**GroundTruth**_0
+
+[255 413 263 254 384]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_7
+
+**GroundTruth**_0
+
+[ 35 342 120  59 257]
+[0 3 1 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=bf25983345ca44aec3dd92c57142be45452bd38a
+
+**iteration**_8
+
+**GroundTruth**_0
+
+[237 394 271 378 179]
+[4 1 3 0 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=26f670a244982335cc08943fb1ec099a2c81e42d
+
+**iteration**_9
+
+**GroundTruth**_1
+
+[264 165 110  93  11]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_10
+
+**GroundTruth**_0
+
+[338  80 258 181 137]
+[2 1 0 4 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=65a8e1f6413a0f6f79894da710b5d6d43361d27d
+
+**iteration**_11
+
+**GroundTruth**_0
+
+[184 207 136 116  24]
+[0 1 4 2 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=0be839a2701369f669532ea5884c15bead1c6e08
+
+**iteration**_12
+
+**GroundTruth**_0
+
+[337 386 115 120 323]
+[0 2 4 1 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/gitweb.cgi?p=qemu.git;a=commit;h=bfc56535f793c557aa754c50213fc5f882e6482d
+
+**iteration**_13
+
+**GroundTruth**_0
+
+[ 17 199  33 282 101]
+[0 3 1 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=670e56d3ed2918b3861d9216f2c0540d9e9ae0d5
+
+**iteration**_14
+
+**GroundTruth**_0
+
+[413  93  98 302 307]
+[2 1 4 0 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=47882fa4975bf0b58dd74474329fdd7154e8f04c
+
+**iteration**_15
+
+**GroundTruth**_0
+
+[419  30 190 278 165]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_16
+
+**GroundTruth**_0
+
+[ 65 408 141 144 193]
+[0 4 2 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_17
+
+**GroundTruth**_0
+
+[173 195 198 293 206]
+[0 4 3 2 1]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_18
+
+**GroundTruth**_0
+
+[283  27 310 168  78]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=47882fa4975bf0b58dd74474329fdd7154e8f04c
+
+**iteration**_19
+
+**GroundTruth**_0
+
+[396 332  40 113  41]
+[0 2 4 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=7f61f4690dd153be98900a2a508b88989e692753
+
+**iteration**_20
+
+**GroundTruth**_1
+
+[122 190  53 307  30]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_21
+
+**GroundTruth**_1
+
+[ 14 295 165  78 160]
+[3 4 0 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_22
+
+**GroundTruth**_0
+
+[409 414 170  95 430]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://github.com/bonzini/qemu/commit/103b40f51e4012b3b0ad20f615562a1806d7f49a
+
+**iteration**_23
+
+**GroundTruth**_1
+
+[157 390 362 341  73]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=e907746266721f305d67bc0718795fedee2e824c
+
+**iteration**_24
+
+**GroundTruth**_0
+
+[101  33 199 100 286]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ff589551c8e8e9e95e211b9d8daafb4ed39f1aec
+
+**iteration**_25
+
+**GroundTruth**_0
+
+[413 255   2 236   1]
+[1 0 4 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=9c6b899f7a46893ab3b671e341a2234e9c0c060e
+
+**iteration**_26
+
+**GroundTruth**_0
+
+[412 261 214 183 213]
+[0 1 2 3 4]
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=9c6b899f7a46893ab3b671e341a2234e9c0c060e
+
+**iteration**_0
+
+**GroundTruth**_0
+
+[412 261 214 183 213]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_1
+
+**GroundTruth**_0
+
+[164  38  98 390 307]
+[1 0 3 4 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ae2158ad6ce0845b2fae2a22aa7f19c0d7a71ce5
+
+**iteration**_2
+
+**GroundTruth**_0
+
+[134  78 387 206 263]
+[2 0 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=973e7170dddefb491a48df5cba33b2ae151013a0
+
+**iteration**_3
+
+**GroundTruth**_0
+
+[ 20 428 354 274 287]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fe3c546c5ff2a6210f9a4d8561cc64051ca8603e
+
+**iteration**_4
+
+**GroundTruth**_0
+
+[ 93 286 298  42 260]
+[2 0 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d68f0f778e7f4fbd674627274267f269e40f0b04
+
+**iteration**_5
+
+**GroundTruth**_0
+
+[165 295  78 160 416]
+[2 3 4 0 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_6
+
+**GroundTruth**_0
+
+[293 173 312   5 235]
+[1 0 2 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_7
+
+**GroundTruth**_0
+
+[184 345 205 382  10]
+[3 4 1 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=362786f14a753d8a5256ef97d7c10ed576d6572b
+
+**iteration**_8
+
+**GroundTruth**_1
+
+[427 352 277 368  19]
+[1 0 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=898ae90a44551d25b8e956fd87372d303c82fe68
+
+**iteration**_9
+
+**GroundTruth**_0
+
+[201 247 305 119 276]
+[0 2 4 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=9f64916da20eea67121d544698676295bbb105a7
+
+**iteration**_10
+
+**GroundTruth**_0
+
+[232 244  87  85 332]
+[2 3 0 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ae2158ad6ce0845b2fae2a22aa7f19c0d7a71ce5
+
+**iteration**_11
+
+**GroundTruth**_0
+
+[ 78  15 160 416 263]
+[4 0 1 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1d20398694a3b67a388d955b7a945ba4aa90a8a8
+
+**iteration**_12
+
+**GroundTruth**_0
+
+[401 434 147 119 214]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1e7aed70144b4673fc26e73062064b6724795e5f
+
+**iteration**_13
+
+**GroundTruth**_0
+
+[315 381 398 271 334]
+[2 3 0 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=9c6b899f7a46893ab3b671e341a2234e9c0c060e
+
+**iteration**_14
+
+**GroundTruth**_0
+
+[133 218  71 294 183]
+[4 3 0 2 1]
+
+**Result**_1
+
+
+**START**_https://github.com/bonzini/qemu/commit/103b40f51e4012b3b0ad20f615562a1806d7f49a
+
+**iteration**_15
+
+**GroundTruth**_0
+
+[298  99  73 100 286]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_16
+
+**GroundTruth**_0
+
+[228 198  31 395 258]
+[0 1 3 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=8f4754ede56e3f9ea3fd7207f4a7c4453e59285b
+
+**iteration**_17
+
+**GroundTruth**_0
+
+[ 77 300 205 345 409]
+[0 4 2 3 1]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=4ffcdef4277a91af15a3c09f7d16af072c29f3f2
+
+**iteration**_18
+
+**GroundTruth**_1
+
+[416  71 160 178 188]
+[1 3 4 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=167d97a3def77ee2dbf6e908b0ecbfe2103977db
+
+**iteration**_19
+
+**GroundTruth**_0
+
+[ 82  96 357 199  48]
+[2 1 4 3 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=65a8e1f6413a0f6f79894da710b5d6d43361d27d
+
+**iteration**_20
+
+**GroundTruth**_0
+
+[434 401 147 407  37]
+[1 0 2 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d68f0f778e7f4fbd674627274267f269e40f0b04
+
+**iteration**_21
+
+**GroundTruth**_0
+
+[  6 256 352 107  91]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1e7aed70144b4673fc26e73062064b6724795e5f
+
+**iteration**_22
+
+**GroundTruth**_0
+
+[309 398  25 381 361]
+[2 0 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d251157ac1928191af851d199a9ff255d330bec9
+
+**iteration**_23
+
+**GroundTruth**_1
+
+[122 352 116 380 157]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=bf25983345ca44aec3dd92c57142be45452bd38a
+
+**iteration**_24
+
+**GroundTruth**_0
+
+[ 13  66 326 230  48]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_25
+
+**GroundTruth**_0
+
+[100 306  99 172 171]
+[2 0 3 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_26
+
+**GroundTruth**_0
+
+[227 229 371 421 392]
+[0 1 3 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d251157ac1928191af851d199a9ff255d330bec9
+
+**iteration**_27
+
+**GroundTruth**_0
+
+[132 389 293 361 421]
+[0 2 1 3 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_28
+
+**GroundTruth**_0
+
+[ 46 386 126  12 426]
+[1 4 2 0 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e95c9a493a5a8d6f969e86c9f19f80ffe6587e19
+
+**iteration**_29
+
+**GroundTruth**_0
+
+[321 160 416 130 188]
+[3 4 2 1 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=c1b886c45dc70f247300f549dce9833f3fa2def5
+
+**iteration**_30
+
+**GroundTruth**_0
+
+[199 254 263 408 100]
+[0 2 3 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3c99afc779c2c78718a565ad8c5e98de7c2c7484
+
+**iteration**_31
+
+**GroundTruth**_0
+
+[309 235 196 312 284]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_32
+
+**GroundTruth**_0
+
+[ 98  14  78 162  38]
+[4 3 1 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=47882fa4975bf0b58dd74474329fdd7154e8f04c
+
+**iteration**_33
+
+**GroundTruth**_0
+
+[ 69 396  58 190 287]
+[1 0 3 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_34
+
+**GroundTruth**_0
+
+[386 355 366 380 122]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_35
+
+**GroundTruth**_0
+
+[376 225 314 106 400]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=971f406b77a6eb84e0ad27dcc416b663765aee30
+
+**iteration**_36
+
+**GroundTruth**_0
+
+[261 214 412 305 213]
+[4 2 0 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1d20398694a3b67a388d955b7a945ba4aa90a8a8
+
+**iteration**_37
+
+**GroundTruth**_0
+
+[320 385  35 130  39]
+[3 4 0 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=65a8e1f6413a0f6f79894da710b5d6d43361d27d
+
+**iteration**_38
+
+**GroundTruth**_0
+
+[184 207 136 116  24]
+[0 1 4 2 3]
+
+**Result**_0
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_39
+
+**GroundTruth**_0
+
+[304 376 433   9 280]
+[3 0 2 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_40
+
+**GroundTruth**_0
+
+[285 262 370 422   0]
+[0 4 2 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=702dbcc274e2ca43be20ba64c758c0ca57dab91d
+
+**iteration**_41
+
+**GroundTruth**_0
+
+[267 210 321  15 178]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_42
+
+**GroundTruth**_0
+
+[408  65 144 107  11]
+[1 2 0 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_43
+
+**GroundTruth**_0
+
+[ 97  33 286 193 100]
+[0 2 3 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=844864fbae66935951529408831c2f22367a57b6
+
+**iteration**_44
+
+**GroundTruth**_0
+
+[ 76 425 369 336 341]
+[1 4 0 2 3]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_45
+
+**GroundTruth**_0
+
+[408  65 115  11 348]
+[4 2 0 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=f153b563f8cf121aebf5a2fff5f0110faf58ccb3
+
+**iteration**_46
+
+**GroundTruth**_1
+
+[281 357 384  96 155]
+[4 0 1 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1e7aed70144b4673fc26e73062064b6724795e5f
+
+**iteration**_47
+
+**GroundTruth**_1
+
+[311  14 157 352 165]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=a890a2f9137ac3cf5b607649e66a6f3a5512d8dc
+
+**iteration**_48
+
+**GroundTruth**_0
+
+[ 20  14  36 344 354]
+[3 2 0 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_49
+
+**GroundTruth**_0
+
+[351 150 370 340 300]
+[1 0 3 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e95c9a493a5a8d6f969e86c9f19f80ffe6587e19
+
+**iteration**_50
+
+**GroundTruth**_0
+
+[268  16 130 121 435]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=6a83f8b5bec6f59e56cc49bd49e4c3f8f805d56f
+
+**iteration**_51
+
+**GroundTruth**_0
+
+[401 434 147 366 247]
+[1 0 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3a15cc0e1ee7168db0782133d2607a6bfa422d66
+
+**iteration**_52
+
+**GroundTruth**_0
+
+[382 402 356 113 137]
+[2 4 0 3 1]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_53
+
+**GroundTruth**_0
+
+[400  58 225 314 303]
+[4 1 0 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=415ab35a441eca767d033a2702223e785b9d5190
+
+**iteration**_54
+
+**GroundTruth**_1
+
+[277 378 427 328 415]
+[0 3 1 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d2ef4b61fe6d33d2a5dcf100a9b9440de341ad62
+
+**iteration**_55
+
+**GroundTruth**_0
+
+[ 78 369  48 193 238]
+[2 3 0 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d2ef4b61fe6d33d2a5dcf100a9b9440de341ad62
+
+**iteration**_56
+
+**GroundTruth**_1
+
+[237 407  37 222 401]
+[3 0 1 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_57
+
+**GroundTruth**_0
+
+[376 303 106  58 259]
+[1 0 3 2 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=4ffcdef4277a91af15a3c09f7d16af072c29f3f2
+
+**iteration**_58
+
+**GroundTruth**_0
+
+[214 412 143 401 276]
+[0 4 1 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=167d97a3def77ee2dbf6e908b0ecbfe2103977db
+
+**iteration**_59
+
+**GroundTruth**_0
+
+[351  87 179 375 222]
+[1 0 4 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e95c9a493a5a8d6f969e86c9f19f80ffe6587e19
+
+**iteration**_60
+
+**GroundTruth**_0
+
+[141 320 208 210 218]
+[1 4 3 0 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_61
+
+**GroundTruth**_1
+
+[ 12 281 326 339 420]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=06630554ccbdd25780aa03c3548aaff1eb56dffd
+
+**iteration**_62
+
+**GroundTruth**_1
+
+[352 390 116 157 418]
+[4 1 3 0 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=a890a2f9137ac3cf5b607649e66a6f3a5512d8dc
+
+**iteration**_63
+
+**GroundTruth**_0
+
+[ 45 280 179 192  87]
+[0 1 3 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_64
+
+**GroundTruth**_0
+
+[262 116 370 271 347]
+[0 3 1 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=bf25983345ca44aec3dd92c57142be45452bd38a
+
+**iteration**_65
+
+**GroundTruth**_1
+
+[379 155 112  47 436]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_66
+
+**GroundTruth**_0
+
+[208 239  14 246  68]
+[1 0 3 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_67
+
+**GroundTruth**_0
+
+[393  87 406 370 433]
+[1 2 4 0 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=a890a2f9137ac3cf5b607649e66a6f3a5512d8dc
+
+**iteration**_68
+
+**GroundTruth**_0
+
+[ 14 144 311 417  36]
+[0 4 2 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=415ab35a441eca767d033a2702223e785b9d5190
+
+**iteration**_69
+
+**GroundTruth**_0
+
+[352 199 256 129 120]
+[2 3 1 0 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=167d97a3def77ee2dbf6e908b0ecbfe2103977db
+
+**iteration**_70
+
+**GroundTruth**_1
+
+[ 13 230  99 199 339]
+[2 3 0 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=26f670a244982335cc08943fb1ec099a2c81e42d
+
+**iteration**_71
+
+**GroundTruth**_0
+
+[253 195 198 176 206]
+[3 1 0 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ead7a57df37d2187813a121308213f41591bd811
+
+**iteration**_72
+
+**GroundTruth**_0
+
+[196 393 364 262 371]
+[0 4 1 3 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=8f4754ede56e3f9ea3fd7207f4a7c4453e59285b
+
+**iteration**_73
+
+**GroundTruth**_0
+
+[429 133 294 120 380]
+[0 4 2 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_74
+
+**GroundTruth**_0
+
+[ 10 257  24 154 140]
+[0 3 4 1 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=4ffcdef4277a91af15a3c09f7d16af072c29f3f2
+
+**iteration**_75
+
+**GroundTruth**_0
+
+[242  79 276 159 150]
+[2 1 3 4 0]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_76
+
+**GroundTruth**_0
+
+[100 226 253 206 198]
+[0 3 1 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_77
+
+**GroundTruth**_1
+
+[145 400 225 314 106]
+[0 1 2 4 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_78
+
+**GroundTruth**_1
+
+[433 381 334 336 405]
+[3 4 0 1 2]
+
+**Result**_1
+
+
+**START**_https://github.com/bonzini/qemu/commit/7285477ab11831b1cf56e45878a89170dd06d9b9
+
+**iteration**_79
+
+**GroundTruth**_1
+
+[325 402 421 245 126]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_80
+
+**GroundTruth**_0
+
+[  6 107 352 141 157]
+[2 1 3 4 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/gitweb.cgi?p=qemu.git;a=commit;h=bfc56535f793c557aa754c50213fc5f882e6482d
+
+**iteration**_81
+
+**GroundTruth**_0
+
+[345 205 184 137  77]
+[4 3 2 1 0]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_82
+
+**GroundTruth**_0
+
+[228 100   3 233 198]
+[3 0 2 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=844864fbae66935951529408831c2f22367a57b6
+
+**iteration**_83
+
+**GroundTruth**_0
+
+[243 338 322 363 181]
+[1 4 3 0 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_84
+
+**GroundTruth**_0
+
+[ 14  78 165 374 295]
+[0 1 3 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e95c9a493a5a8d6f969e86c9f19f80ffe6587e19
+
+**iteration**_85
+
+**GroundTruth**_0
+
+[130  39 215 240  55]
+[0 4 1 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=4ffcdef4277a91af15a3c09f7d16af072c29f3f2
+
+**iteration**_86
+
+**GroundTruth**_0
+
+[214 434 401 412  32]
+[3 0 4 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_87
+
+**GroundTruth**_0
+
+[206 264 100  27  11]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_88
+
+**GroundTruth**_0
+
+[428 418  20  35   1]
+[0 3 4 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e95c9a493a5a8d6f969e86c9f19f80ffe6587e19
+
+**iteration**_89
+
+**GroundTruth**_1
+
+[416 160 188 321 130]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_90
+
+**GroundTruth**_0
+
+[436  64  12  34  69]
+[3 0 2 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=844864fbae66935951529408831c2f22367a57b6
+
+**iteration**_91
+
+**GroundTruth**_0
+
+[425  68  98 377 151]
+[0 3 2 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_92
+
+**GroundTruth**_0
+
+[157 263 206 160 121]
+[0 3 1 4 2]
+
+**Result**_1
+
+
+**START**_https://github.com/bonzini/qemu/commit/7285477ab11831b1cf56e45878a89170dd06d9b9
+
+**iteration**_93
+
+**GroundTruth**_0
+
+[390 157 341 413 358]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1d20398694a3b67a388d955b7a945ba4aa90a8a8
+
+**iteration**_94
+
+**GroundTruth**_0
+
+[320 141 208 210 218]
+[0 4 3 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d251157ac1928191af851d199a9ff255d330bec9
+
+**iteration**_95
+
+**GroundTruth**_0
+
+[391 341 413 157  27]
+[2 3 1 0 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=9c6b899f7a46893ab3b671e341a2234e9c0c060e
+
+**iteration**_96
+
+**GroundTruth**_0
+
+[412 261 214 305 183]
+[1 0 2 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_97
+
+**GroundTruth**_0
+
+[179 394 271 315 237]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=898ae90a44551d25b8e956fd87372d303c82fe68
+
+**iteration**_98
+
+**GroundTruth**_0
+
+[412 261 294 214 183]
+[4 0 1 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=bf25983345ca44aec3dd92c57142be45452bd38a
+
+**iteration**_99
+
+**GroundTruth**_0
+
+[  6  89 199 255   1]
+[1 0 4 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=0be839a2701369f669532ea5884c15bead1c6e08
+
+**iteration**_100
+
+**GroundTruth**_0
+
+[149 120 220 323 329]
+[0 1 4 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=56f101ecce0eafd09e2daf1c4eeb1377d6959261
+
+**iteration**_101
+
+**GroundTruth**_1
+
+[188  55 240 130 215]
+[3 1 0 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=691a02e2ce0c413236a78dee6f2651c937b09fb0
+
+**iteration**_102
+
+**GroundTruth**_0
+
+[ 21 196  77 340 398]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/bonzini/qemu/commit/7285477ab11831b1cf56e45878a89170dd06d9b9
+
+**iteration**_103
+
+**GroundTruth**_1
+
+[369 157 355 390 421]
+[4 3 1 0 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ff589551c8e8e9e95e211b9d8daafb4ed39f1aec
+
+**iteration**_104
+
+**GroundTruth**_0
+
+[263  78 255 362 254]
+[4 2 0 3 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=cc96677469388bad3d66479379735cf75db069e3
+
+**iteration**_105
+
+**GroundTruth**_0
+
+[382 132 196 187 345]
+[0 2 3 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_106
+
+**GroundTruth**_0
+
+[179  24 351  87 406]
+[0 4 1 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_107
+
+**GroundTruth**_0
+
+[274  34 422 144 127]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=ff82911cd3f69f028f2537825c9720ff78bc3f19
+
+**iteration**_108
+
+**GroundTruth**_0
+
+[220  61 100 109 218]
+[4 1 3 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=cc96677469388bad3d66479379735cf75db069e3
+
+**iteration**_109
+
+**GroundTruth**_0
+
+[179 222 375 242 356]
+[0 1 2 4 3]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_110
+
+**GroundTruth**_0
+
+[187 422 224 396  72]
+[0 1 4 3 2]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_111
+
+**GroundTruth**_0
+
+[134 387  78 302 413]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1e7aed70144b4673fc26e73062064b6724795e5f
+
+**iteration**_112
+
+**GroundTruth**_0
+
+[309 398 381 334 361]
+[3 0 2 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=de594e47659029316bbf9391efb79da0a1a08e08
+
+**iteration**_113
+
+**GroundTruth**_0
+
+[421 433 389 334 132]
+[0 1 2 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=80eecda8e5d09c442c24307f340840a5b70ea3b9
+
+**iteration**_114
+
+**GroundTruth**_0
+
+[100  33 199 172 301]
+[4 3 2 1 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1e7aed70144b4673fc26e73062064b6724795e5f
+
+**iteration**_115
+
+**GroundTruth**_0
+
+[200 124 189 398  25]
+[2 3 1 0 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=11b128f4062dd7f89b14abc8877ff20d41b28be9
+
+**iteration**_116
+
+**GroundTruth**_0
+
+[366 386 120 290  74]
+[0 1 2 3 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_117
+
+**GroundTruth**_0
+
+[394 315 378 237 271]
+[0 4 1 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=4154c7e03fa55b4cf52509a83d50d6c09d743b7
+
+**iteration**_118
+
+**GroundTruth**_0
+
+[313 310  27 303 399]
+[3 0 1 2 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fa365d7cd11185237471823a5a33d36765454e16
+
+**iteration**_119
+
+**GroundTruth**_0
+
+[206 369 121 198 226]
+[3 1 0 4 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=caa881abe0e01f9931125a0977ec33c5343e4aa7
+
+**iteration**_120
+
+**GroundTruth**_0
+
+[393  77 340  87 433]
+[0 1 3 2 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_121
+
+**GroundTruth**_0
+
+[217 198   3  54 233]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=d710e1e7bd3d5bfc26b631f02ae87901ebe646b0
+
+**iteration**_122
+
+**GroundTruth**_0
+
+[206 413 110 264 194]
+[0 4 2 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_123
+
+**GroundTruth**_0
+
+[288 347 114 364  67]
+[3 0 2 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=844864fbae66935951529408831c2f22367a57b6
+
+**iteration**_124
+
+**GroundTruth**_0
+
+[425 377 151  68 110]
+[0 1 2 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_125
+
+**GroundTruth**_0
+
+[157 390  14  52 107]
+[4 0 3 2 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_126
+
+**GroundTruth**_0
+
+[372 342  35 120  10]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_127
+
+**GroundTruth**_0
+
+[ 20 206  14 254  78]
+[0 2 4 1 3]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_128
+
+**GroundTruth**_0
+
+[ 65 144 426 274  34]
+[2 0 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_129
+
+**GroundTruth**_0
+
+[262  22 284 116 304]
+[0 4 1 3 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_130
+
+**GroundTruth**_0
+
+[ 14  20 263 246 206]
+[3 0 1 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3251bdcf1c67427d964517053c3d185b46e618e8
+
+**iteration**_131
+
+**GroundTruth**_0
+
+[336 284 418 138 195]
+[3 1 2 4 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_132
+
+**GroundTruth**_0
+
+[332 333  85  87 232]
+[4 1 2 0 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=e907746266721f305d67bc0718795fedee2e824c
+
+**iteration**_133
+
+**GroundTruth**_0
+
+[ 24 351  87 145 179]
+[2 1 0 3 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=0be839a2701369f669532ea5884c15bead1c6e08
+
+**iteration**_134
+
+**GroundTruth**_1
+
+[352 380 141 157 115]
+[4 3 0 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=43b11a91dd861a946b231b89b754285
+
+**iteration**_135
+
+**GroundTruth**_0
+
+[158 256 169 366   9]
+[0 2 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=3a15cc0e1ee7168db0782133d2607a6bfa422d66
+
+**iteration**_136
+
+**GroundTruth**_0
+
+[ 78 337 388 162 254]
+[1 3 4 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=47882fa4975bf0b58dd74474329fdd7154e8f04c
+
+**iteration**_137
+
+**GroundTruth**_0
+
+[366 309 290  74 372]
+[1 4 0 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=8f4754ede56e3f9ea3fd7207f4a7c4453e59285b
+
+**iteration**_138
+
+**GroundTruth**_0
+
+[ 82 337  78 390 115]
+[2 1 3 4 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=db8a31d11d6a60f48d6817530640d75aa72a9a2f
+
+**iteration**_139
+
+**GroundTruth**_1
+
+[329  48  96 380 141]
+[4 0 3 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_140
+
+**GroundTruth**_0
+
+[ 37 120 327 368 116]
+[4 0 1 2 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=52f91c3723932f8340fe36c8ec8b18a757c37b2b
+
+**iteration**_141
+
+**GroundTruth**_0
+
+[ 87 345 280 205 184]
+[1 3 2 0 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1d20398694a3b67a388d955b7a945ba4aa90a8a8
+
+**iteration**_142
+
+**GroundTruth**_0
+
+[324 167  41 276 378]
+[3 2 1 0 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=bf25983345ca44aec3dd92c57142be45452bd38a
+
+**iteration**_143
+
+**GroundTruth**_0
+
+[186  36 269 344  54]
+[0 2 4 3 1]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_144
+
+**GroundTruth**_0
+
+[ 49 263 408 374  78]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/gitweb.cgi?p=qemu.git;a=commit;h=bfc56535f793c557aa754c50213fc5f882e6482d
+
+**iteration**_145
+
+**GroundTruth**_1
+
+[ 78 115 374 339 165]
+[3 1 4 2 0]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=b0d9ffcd0251161c7c92f94804dcf599dfa3edeb
+
+**iteration**_146
+
+**GroundTruth**_0
+
+[275  24  57  85 145]
+[0 1 4 2 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=da885fe1ee8b4589047484bd7fa05a4905b52b17
+
+**iteration**_147
+
+**GroundTruth**_0
+
+[143 238 294 120 380]
+[4 2 0 1 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e3737b820b45e54b059656dc3f914f895ac7a88b
+
+**iteration**_148
+
+**GroundTruth**_1
+
+[141 246  36 104 208]
+[0 3 4 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=fdda170e50b8af062cf5741e12c4fb5e57a2eacf
+
+**iteration**_149
+
+**GroundTruth**_0
+
+[286 307  97  99  18]
+[3 0 2 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commitdiff;h=a890a2f9137ac3cf5b607649e66a6f3a5512d8dc
+
+**iteration**_150
+
+**GroundTruth**_0
+
+[311  14 157 141 354]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=a6b3167fa0e825aebb5a7cd8b437b6d41584a196
+
+**iteration**_151
+
+**GroundTruth**_0
+
+[392 245   0  94 383]
+[3 0 1 2 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=1d20398694a3b67a388d955b7a945ba4aa90a8a8
+
+**iteration**_152
+
+**GroundTruth**_0
+
+[250 305 214 261 247]
+[0 1 2 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=49adc5d3f8c6bb75e55ebfeab109c5c37dea65e8
+
+**iteration**_153
+
+**GroundTruth**_1
+
+[157  82 390 165 254]
+[3 2 0 4 1]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=c05e4667be91b46ab42b5a11babf8e84d476cc6b
+
+**iteration**_154
+
+**GroundTruth**_0
+
+[329 148 125 141  93]
+[2 0 1 3 4]
+
+**Result**_1
+
+
+**START**_https://github.com/qemu/qemu/commit/30663fd26c0307e414622c7a8607fbc04f92ec14
+
+**iteration**_155
+
+**GroundTruth**_0
+
+[ 65 144 423  22 411]
+[0 4 2 1 3]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=96d87bdda3919bb16f754b3d3fd1227e1f38f13c
+
+**iteration**_156
+
+**GroundTruth**_0
+
+[134 208 302 413  11]
+[4 3 0 1 2]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=eea750a5623ddac7a61982eec8f1c93481857578
+
+**iteration**_157
+
+**GroundTruth**_1
+
+[246  36 344 175  14]
+[0 3 2 1 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ae2158ad6ce0845b2fae2a22aa7f19c0d7a71ce5
+
+**iteration**_158
+
+**GroundTruth**_0
+
+[387  53 134 194 110]
+[0 2 1 4 3]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=e6908bfe8e07f2b452e78e677da1b45b1c0f6829
+
+**iteration**_159
+
+**GroundTruth**_0
+
+[292 383  57   0  62]
+[2 0 1 3 4]
+
+**Result**_1
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=dd248ed7e204ee8a1873914e02b8b526e8f1b80d
+
+**iteration**_160
+
+**GroundTruth**_0
+
+[271 315 334  25 381]
+[3 2 1 0 4]
+
+**Result**_0
+
+
+**START**_https://git.qemu.org/?p=qemu.git;a=commit;h=ab9509cceabef28071e41bdfa073083859c949a7
+
+**iteration**_161
+
+**GroundTruth**_0
+
+[ 64 312 126 235 105]
+[0 2 1 4 3]
+
+**Result**_1
+

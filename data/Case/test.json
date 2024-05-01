@@ -1,0 +1,16 @@
+[
+    {
+        "code": "int RenderBox::reflectionOffset() const\n{\n    if (!style()->boxReflect())\n        return 0;\n    if (style()->boxReflect()->direction() == ReflectionLeft || style()->boxReflect()->direction() == ReflectionRight)\n        return style()->boxReflect()->offset().calcValue(borderBoxRect().width());\n    return style()->boxReflect()->offset().calcValue(borderBoxRect().height());\n}\n",
+        "label": "0",
+        "addr": "https://github.com/chromium/chromium/commit/5fd35e5359c6345b8709695cd71fba307318e6aa",
+        "vul_func_with_fix": "int RenderBox::reflectionOffset() const\n{\n    if (!style()->boxReflect())\n        return 0;\n    if (style()->boxReflect()->direction() == ReflectionLeft || style()->boxReflect()->direction() == ReflectionRight)\n        return style()->boxReflect()->offset().calcValue(borderBoxRect().width());\n    return style()->boxReflect()->offset().calcValue(borderBoxRect().height());\n}\n",
+        "linevul": 4.9884794862009585e-05
+    },
+    {
+        "code": "void IndexedDBDispatcher::RequestIDBIndexGetObject(\n    const IndexedDBKey& key,\n    WebIDBCallbacks* callbacks_ptr,\n    int32 idb_index_id,\n    const WebIDBTransaction& transaction,\n    WebExceptionCode* ec) {\n  ResetCursorPrefetchCaches();\n  scoped_ptr<WebIDBCallbacks> callbacks(callbacks_ptr);\n  int32 response_id = pending_callbacks_.Add(callbacks.release());\n  Send(new IndexedDBHostMsg_IndexGetObject(idb_index_id, CurrentWorkerId(),\n                                           response_id, key,\n                                           TransactionId(transaction), ec));\n  if (*ec)\n    pending_callbacks_.Remove(response_id);\n}\n",
+        "label": "0",
+        "addr": "https://github.com/chromium/chromium/commit/cc7cde43832b547cdab856fe1bedc9514ca38e13",
+        "vul_func_with_fix": "void IndexedDBDispatcher::RequestIDBIndexGetObject(\n    const IndexedDBKey& key,\n    WebIDBCallbacks* callbacks_ptr,\n    int32 idb_index_id,\n    const WebIDBTransaction& transaction,\n    WebExceptionCode* ec) {\n  ResetCursorPrefetchCaches();\n  scoped_ptr<WebIDBCallbacks> callbacks(callbacks_ptr);\n  int32 response_id = pending_callbacks_.Add(callbacks.release());\n  Send(new IndexedDBHostMsg_IndexGetObject(idb_index_id, CurrentWorkerId(),\n                                           response_id, key,\n                                           TransactionId(transaction), ec));\n  if (*ec)\n    pending_callbacks_.Remove(response_id);\n}\n",
+        "linevul": 0.0002983208978548646
+    }
+]

@@ -1,0 +1,16 @@
+
+LLM_Func:
+    LLM_model: 'GPT' #GPT,Local7B,Local13B,Local33B,Toyi
+    Action4code:
+        data_set: 'Android' #Android Chrome Qemu FFmpeg ImageMagick Linux
+        data_size: 200 #
+        seed: 1 
+    Beacon:
+        dlnetwork: 'devign' # sysevr  linevul devign
+    Chain:
+        algorithm: 'detail' # vague
+    Discern:
+        algorithm: 'deepsec' 
+        ICLnum: 3
+
+

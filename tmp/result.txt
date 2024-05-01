@@ -1,0 +1,9 @@
+covar.c:17:50: error: Null pointer dereference: ptr [nullPointer]
+        printk(KERN_INFO "Value at ptr is: %c", *ptr);
+                                                 ^
+covar.c:15:21: note: Assignment 'ptr=NULL', assigned value is 0
+        char *ptr = NULL;
+                    ^
+covar.c:17:50: note: Null pointer dereference
+        printk(KERN_INFO "Value at ptr is: %c", *ptr);
+                                                 ^

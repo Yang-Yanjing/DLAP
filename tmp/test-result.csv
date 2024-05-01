@@ -1,0 +1,2 @@
+File,Line,Column,DefaultLevel,Level,Category,Name,Warning,Suggestion,Note,CWEs,Context,Fingerprint,ToolVersion,RuleId,HelpUri
+covar.c,18,5,4,4,buffer,strcpy,Does not check for buffer overflows when copying to destination [MS-banned] (CWE-120).,"Consider using snprintf, strcpy_s, or strlcpy (warning: strncpy easily misused).",,CWE-120,"    strcpy(""YYJ"", &ptr);",cf40019130651577cf80cb6beae36f896925e0fc2ce75d10b982e5ab28d1f16b,2.0.19,FF1001,https://cwe.mitre.org/data/definitions/120.html
