@@ -17,7 +17,7 @@ The overall framework is divided into 2 parts:
 
 ***mainDect.py*** (the main program to call and process automatically)
 
-|- codesensor: Static Processing Tool
+|- Statics-Tools: Static Processing Tool
 
 |- data: Dataset
 
