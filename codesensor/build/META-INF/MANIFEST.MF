@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk: 1.6.0_21
-Built-By: jimi
-Created-By: Apache Maven
-Main-Class: org.antlr.Tool
-Archiver-Version: Plexus Archiver
-
